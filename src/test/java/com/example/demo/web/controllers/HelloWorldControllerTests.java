@@ -1,4 +1,4 @@
-package com.example.demo.web;
+package com.example.demo.web.controllers;
 
 import org.junit.Before;
 import org.junit.Test;
